@@ -117,6 +117,9 @@
                         "name": "DNSNameResolver"
                     },
                     {
+                        "name": "DisableForceDetachOnTimeout"
+                    },
+                    {
                         "name": "DyanmicServiceEndpointIBMCloud"
                     },
                     {
